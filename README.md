@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pratikvchavan
-- 👀 I’m interested in data engineering, Cloud, Bigdata, Data Analytics.
-- 🌱 I’m currently learning Big Data, Data engineering
+- 👀 I’m interested in Data Analytics, data engineering, Cloud.
+- 🌱 I’m currently learning Power BI, Data Analytics, Big Data, Data engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pratikchavandataengineer@gmail.com
+- 📫 How to reach me pratikpowerbi@gmail.com
 
 <!---
 pratikvchavan/pratikvchavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
